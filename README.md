@@ -1,7 +1,3 @@
-<div align="center">
-<img width="1200" height="475" alt="OB-dev banner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
-
 # OB-dev
 
 OB-dev is a bilingual digital agency website for crafting high-end digital solutions. The site presents the agency's positioning, core capabilities, featured work, client feedback, insights, FAQ, and a contact flow for new projects.
