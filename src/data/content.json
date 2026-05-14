@@ -1,0 +1,312 @@
+{
+  "en": {
+    "agencyName": "OB-dev",
+    "tagline": "Crafting High-End Digital Solutions",
+    "nav": {
+      "home": "Home",
+      "work": "Work",
+      "blog": "Blog",
+      "contact": "Contact",
+      "cta": "Start Project"
+    },
+    "hero": {
+      "title": "We build the digital backbone of modern enterprises.",
+      "subtitle": "Specializing in Next.js, Laravel, and cross-platform native applications for visionary brands.",
+      "cta": "Explore Our Work",
+      "secondaryCta": "Discuss a Project"
+    },
+    "services": {
+      "title": "Core Capabilities",
+      "tagline": "Architecting the future of software",
+      "items": [
+        {
+          "id": 1,
+          "title": "Web Development",
+          "description": "Custom PWAs and enterprise-grade websites using Next.js, Laravel, and TYPO3. Performance-first architecture with scalable backends.",
+          "icon": "Globe"
+        },
+        {
+          "id": 2,
+          "title": "Mobile Apps",
+          "description": "Cross-platform mobile solutions for iOS and Android. High-performance native-feel experiences built for global scale.",
+          "icon": "Smartphone"
+        },
+        {
+          "id": 3,
+          "title": "Desktop Apps",
+          "description": "Powerful native desktop applications for Windows and macOS. Optimized for complex workflows and high-performance computing.",
+          "icon": "Monitor"
+        },
+        {
+          "id": 4,
+          "title": "API & Cloud Architecture",
+          "description": "Robust backend systems and serverless architectures optimized for security, reliability, and extreme traffic.",
+          "icon": "Server"
+        }
+      ]
+    },
+    "work": {
+      "title": "Featured Work",
+      "subtitle": "Selected artifacts of digital engineering excellence.",
+      "viewAll": "View Case Studies",
+      "philosophy": {
+        "title": "The Engineering Philosophy",
+        "p1": "At OB-dev, we don't just build websites; we architect digital infrastructure. Our process is rooted in Technical Excellence and scalability. Every project starts with a deep dive into the business logic to ensure the technology serves the long-term vision.",
+        "p2": "We specialize in the 'Golden Stack' — using Next.js for fluid consumer experiences and Laravel for robust, enterprise-grade backends. This duality allows us to deliver applications that are as fast as they are secure."
+      }
+    },
+    "portfolio": [
+      {
+        "id": 1,
+        "title": "FinTech Nexus",
+        "category": "Web",
+        "tech": ["Next.js", "Laravel", "PostgreSQL"],
+        "description": "A comprehensive wealth management platform with real-time analytics.",
+        "image": "https://picsum.photos/seed/nexus/800/600"
+      },
+      {
+        "id": 2,
+        "title": "HealthSync Mobile",
+        "category": "Mobile",
+        "tech": ["React Native", "Firebase", "Node.js"],
+        "description": "Telemedicine application with encrypted video and patient management.",
+        "image": "https://picsum.photos/seed/health/800/600"
+      },
+      {
+        "id": 3,
+        "title": "LogiTrack Pro",
+        "category": "Desktop",
+        "tech": ["Electron", "React", "Rust"],
+        "description": "Global logistics tracking dashboard for desktop terminals.",
+        "image": "https://picsum.photos/seed/logi/800/600"
+      }
+    ],
+    "testimonials": {
+      "title": "Client Feedback",
+      "items": [
+        {
+          "id": 1,
+          "name": "Sarah Jenkins",
+          "role": "CTO, GlobalTrade",
+          "quote": "OB-dev delivered a system that scaled from 1k to 1M users smoothly. Their technical depth is unparalleled."
+        },
+        {
+          "id": 2,
+          "name": "Marcus Thorne",
+          "role": "Founder, HyperScale",
+          "quote": "The most professional agency I've worked with. They don't just write code; they build products."
+        }
+      ]
+    },
+    "blog": {
+      "title": "Insights",
+      "subtitle": "Sharing our technical depth and perspectives on the evolving digital ecosystem.",
+      "cta": "Full Analysis",
+      "back": "Back to Insights",
+      "readTime": "reading",
+      "subscribe": "Subscribe to Newsletter"
+    },
+    "blogs": [
+      {
+        "id": "scaling-2024",
+        "title": "The Future of Scalable Architectures in 2024",
+        "excerpt": "Exploring how serverless and edge computing are redefining enterprise application landscapes.",
+        "content": "Scalability is no longer just about adding more servers. In 2024, it's about distributed intelligence at the edge. We've seen a massive shift towards serverless functions that handle peaks without manual intervention. Next.js and Vercel have paved the way, but the real power lies in how we design our database layers to handle global consistency alongside high throughput.\n\nOur approach at OB-dev focuses on 'Atomic Scalability'—ensuring each module can scale independently without bottlenecking the core system. This involves heavy use of Redis for caching, PostgreSQL for relational consistency, and event-driven architectures using RabbitMQ or Kafka.",
+        "date": "May 12, 2024",
+        "readTime": "8 min",
+        "category": "Architecture",
+        "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=1000&auto=format&fit=crop"
+      }
+    ],
+    "faq": {
+      "title": "Inquiry Engine",
+      "tagline": "Architecting the future of software",
+      "items": [
+        {
+          "id": 1,
+          "question": "What technologies do you specialize in?",
+          "answer": "We specialize in modern stacks including React, Next.js, PHP/Laravel, and cross-platform app development."
+        }
+      ]
+    },
+    "contact": {
+      "title": "Let's talk.",
+      "subtitle": "We're currently filtering for projects that push technical boundaries. Tell us about your vision.",
+      "labels": {
+        "id": "IDENTIFICATION",
+        "comm": "COMMUNICATION",
+        "core": "PROJECT CORE",
+        "tech": "TECHNICAL REQUIREMENTS"
+      },
+      "placeholders": {
+        "name": "Full Name",
+        "email": "Email Address",
+        "subject": "Briefly describe the vision (e.g., Enterprise Web Portal)",
+        "message": "Detail your technical challenges, stack preferences, and timelines..."
+      },
+      "cta": "EXECUTE REQUEST",
+      "status": "INITIATING UPLOAD...",
+      "secure": "Secure end-to-end encrypted transmission"
+    },
+    "cta": {
+      "title": "Elevate your digital reality.",
+      "subtitle": "Strategic technical consulting and execution for high-growth enterprises.",
+      "button": "Start Transmission"
+    }
+  },
+  "fr": {
+    "agencyName": "OB-dev",
+    "tagline": "Création de solutions numériques haut de gamme",
+    "nav": {
+      "home": "Accueil",
+      "work": "Projets",
+      "blog": "Blog",
+      "contact": "Contact",
+      "cta": "Démarrer un projet"
+    },
+    "hero": {
+      "title": "Nous construisons l'épine dorsale numérique des entreprises modernes.",
+      "subtitle": "Spécialisé dans Next.js, Laravel et les applications natives multiplateformes pour les marques visionnaires.",
+      "cta": "Explorer nos travaux",
+      "secondaryCta": "Discuter d'un projet"
+    },
+    "services": {
+      "title": "Compétences Clés",
+      "tagline": "Architecturer l'avenir du logiciel",
+      "items": [
+        {
+          "id": 1,
+          "title": "Développement Web",
+          "description": "Progressive Web Apps personnalisées et sites Web d'entreprise utilisant Next.js, Laravel et TYPO3.",
+          "icon": "Globe"
+        },
+        {
+          "id": 2,
+          "title": "Applications Mobiles",
+          "description": "Solutions mobiles multiplateformes pour iOS et Android. Expériences performantes au rendu natif.",
+          "icon": "Smartphone"
+        },
+        {
+          "id": 3,
+          "title": "Applications Bureau",
+          "description": "Puissantes applications de bureau natives pour Windows et macOS. Optimisées pour les flux de travail complexes.",
+          "icon": "Monitor"
+        },
+        {
+          "id": 4,
+          "title": "API & Architecture Cloud",
+          "description": "Systèmes backend robustes et architectures sans serveur optimisées pour la sécurité et la fiabilité.",
+          "icon": "Server"
+        }
+      ]
+    },
+    "work": {
+      "title": "Travaux Récents",
+      "subtitle": "Sélection d'artefacts d'excellence en ingénierie numérique.",
+      "viewAll": "Voir les études de cas",
+      "philosophy": {
+        "title": "Philosophie de l'Ingénierie",
+        "p1": "Chez OB-dev, nous ne nous contentons pas de construire des sites Web ; nous concevons des infrastructures numériques. Notre processus est ancré dans l'Excellence Technique et l'évolutivité.",
+        "p2": "Nous nous spécialisons dans le 'Golden Stack' — utilisant Next.js pour des expériences fluides et Laravel pour des backends robustes. Cette dualité nous permet de livrer des applications aussi rapides que sécurisées."
+      }
+    },
+    "portfolio": [
+      {
+        "id": 1,
+        "title": "FinTech Nexus",
+        "category": "Web",
+        "tech": ["Next.js", "Laravel", "PostgreSQL"],
+        "description": "Une plateforme complète de gestion de patrimoine avec analyses en temps réel.",
+        "image": "https://picsum.photos/seed/nexus/800/600"
+      },
+      {
+        "id": 2,
+        "title": "HealthSync Mobile",
+        "category": "Mobile",
+        "tech": ["React Native", "Firebase", "Node.js"],
+        "description": "Application de télémédecine avec vidéo cryptée et gestion des patients.",
+        "image": "https://picsum.photos/seed/health/800/600"
+      },
+      {
+        "id": 3,
+        "title": "LogiTrack Pro",
+        "category": "Bureau",
+        "tech": ["Electron", "React", "Rust"],
+        "description": "Tableau de bord de suivi logistique mondial pour terminaux de bureau.",
+        "image": "https://picsum.photos/seed/logi/800/600"
+      }
+    ],
+    "testimonials": {
+      "title": "Retours Clients",
+      "items": [
+        {
+          "id": 1,
+          "name": "Sarah Jenkins",
+          "role": "CTO, GlobalTrade",
+          "quote": "OB-dev a livré un système qui a évolué de 1k à 1M d'utilisateurs sans problème. Leur profondeur technique est inégalée."
+        },
+        {
+          "id": 2,
+          "name": "Marcus Thorne",
+          "role": "Fondateur, HyperScale",
+          "quote": "L'agence la plus professionnelle avec laquelle j'ai travaillé. Ils n'écrivent pas seulement du code ; ils construisent des produits."
+        }
+      ]
+    },
+    "blog": {
+      "title": "Insights",
+      "subtitle": "Partage de notre expertise technique et perspectives sur l'écosystème numérique en évolution.",
+      "cta": "Analyse Complète",
+      "back": "Retour aux Insights",
+      "readTime": "de lecture",
+      "subscribe": "S'abonner à la Newsletter"
+    },
+    "blogs": [
+      {
+        "id": "scaling-2024",
+        "title": "L'avenir des architectures évolutives en 2024",
+        "excerpt": "Découvrez comment le serverless et l'edge computing redéfinissent les paysages applicatifs d'entreprise.",
+        "content": "L'évolutivité n'est plus seulement une question d'ajout de serveurs. En 2024, il s'agit d'intelligence distribuée à la périphérie (edge). Nous avons assisté à un changement massif vers les fonctions serverless qui gèrent les pics sans intervention manuelle. Next.js et Vercel ont ouvert la voie, mais la véritable puissance réside dans la façon dont nous concevons nos couches de base de données pour gérer la cohérence mondiale parallèlement à un débit élevé.",
+        "date": "12 Mai 2024",
+        "readTime": "8 min",
+        "category": "Architecture",
+        "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=1000&auto=format&fit=crop"
+      }
+    ],
+    "faq": {
+      "title": "Moteur de Recherche",
+      "tagline": "Architecturer l'avenir du logiciel",
+      "items": [
+        {
+          "id": 1,
+          "question": "Dans quelles technologies vous spécialisez-vous ?",
+          "answer": "Nous nous spécialisons dans les stacks modernes incluant React, Next.js, PHP/Laravel et le développement d'applications multiplateformes."
+        }
+      ]
+    },
+    "contact": {
+      "title": "Parlons-nous.",
+      "subtitle": "Nous filtrons actuellement les projets qui repoussent les limites techniques. Parlez-nous de votre vision.",
+      "labels": {
+        "id": "IDENTIFICATION",
+        "comm": "COMMUNICATION",
+        "core": "PROJET CENTRAL",
+        "tech": "EXIGENCES TECHNIQUES"
+      },
+      "placeholders": {
+        "name": "Nom complet",
+        "email": "Adresse e-mail",
+        "subject": "Décrivez brièvement la vision (ex: Portail Web Entreprise)",
+        "message": "Détaillez vos défis techniques, préférences de stack et délais..."
+      },
+      "cta": "EXÉCUTER LA DEMANDE",
+      "status": "INITIATION DU TÉLÉCHARGEMENT...",
+      "secure": "Transmission sécurisée cryptée de bout en bout"
+    },
+    "cta": {
+      "title": "Élevez votre réalité numérique.",
+      "subtitle": "Conseil technique stratégique et exécution pour les entreprises à forte croissance.",
+      "button": "Démarrer la Transmission"
+    }
+  }
+}
